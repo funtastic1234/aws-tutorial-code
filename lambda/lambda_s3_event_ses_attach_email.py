@@ -1,9 +1,9 @@
 """
 -*- coding: utf-8 -*-
 ========================
-AWS Lambda
+AWS Lambda 
 ========================
-Contributor: Chirag Rathod (Srce Cde)
+ this code needs python 3.6 look at images attached 
 ========================
 """
 import boto3
